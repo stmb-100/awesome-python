@@ -1,5 +1,8 @@
 # Contributing
 
+## Neue Einträge
+Bitte sende eine Mail an : lieblingskollegen@firma.com
+
 Your contributions are always welcome!
 
 ## Guidelines
